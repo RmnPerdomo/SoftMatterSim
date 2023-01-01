@@ -1,3 +1,3 @@
-# Soft Matter Simulation Software (SoMSS)
+# Soft Matter Simulation Package (SoMSP)
 
-## A software for simulating soft matter systems (Beta Version)
+## A library for simulating soft matter systems (Beta Version)
